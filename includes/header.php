@@ -31,7 +31,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4 sticky-top shadow-sm py-3">
         <div class="container">
-            <a class="navbar-brand fw-bold text-white d-flex align-items-center gap-2" href="/gudang-app/index.php">
+            <a class="navbar-brand fw-bold text-white d-flex align-items-center gap-2" href="/gudang-app-kelompok7/index.php">
                 <i class="bi bi-box-seam-fill text-warning fs-4"></i> 
                 <span>Logistik<span class="text-warning">Gudang</span></span>
             </a>
@@ -43,33 +43,33 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
                 <ul class="navbar-nav gap-1 mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link d-flex align-items-center gap-2" href="/gudang-app/index.php">
+                        <a class="nav-link d-flex align-items-center gap-2" href="/gudang-app-kelompok7/index.php">
                             <i class="bi bi-speedometer2"></i> Dashboard
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link d-flex align-items-center gap-2" href="/gudang-app/barang/index.php">
+                        <a class="nav-link d-flex align-items-center gap-2" href="/gudang-app-kelompok7/barang/index.php">
                             <i class="bi bi-tags"></i> Data Barang
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link d-flex align-items-center gap-2" href="/gudang-app/lokasi/index.php">
+                        <a class="nav-link d-flex align-items-center gap-2" href="/gudang-app-kelompok7/lokasi/index.php">
                             <i class="bi bi-grid-3x3-gap"></i> Lokasi Rak
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link d-flex align-items-center gap-2" href="/gudang-app/transaksi_masuk/index.php">
+                        <a class="nav-link d-flex align-items-center gap-2" href="/gudang-app-kelompok7/transaksi_masuk/index.php">
                             <i class="bi bi-box-arrow-in-down text-success"></i> Barang Masuk
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link d-flex align-items-center gap-2" href="/gudang-app/transaksi_keluar/index.php">
+                        <a class="nav-link d-flex align-items-center gap-2" href="/gudang-app-kelompok7/transaksi_keluar/index.php">
                             <i class="bi bi-box-arrow-up text-danger"></i> Barang Keluar
                         </a>
                     </li>
                     <li class="nav-item">
                         <li class="nav-item">
-                        <a class="nav-link d-flex align-items-center gap-2" href="/gudang-app/supplier/index.php">
+                        <a class="nav-link d-flex align-items-center gap-2" href="/gudang-app-kelompok7/supplier/index.php">
                             <i class="bi bi-truck text-info"></i> Supplier
                         </a>
                     </li>
