@@ -53,11 +53,6 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link d-flex align-items-center gap-2" href="/gudang-app-kelompok7/lokasi/index.php">
-                            <i class="bi bi-grid-3x3-gap"></i> Lokasi Rak
-                        </a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link d-flex align-items-center gap-2" href="/gudang-app-kelompok7/transaksi_masuk/index.php">
                             <i class="bi bi-box-arrow-in-down text-success"></i> Barang Masuk
                         </a>
@@ -65,6 +60,11 @@
                     <li class="nav-item">
                         <a class="nav-link d-flex align-items-center gap-2" href="/gudang-app-kelompok7/transaksi_keluar/index.php">
                             <i class="bi bi-box-arrow-up text-danger"></i> Barang Keluar
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link d-flex align-items-center gap-2" href="/gudang-app-kelompok7/lokasi/index.php">
+                            <i class="bi bi-grid-3x3-gap"></i> Lokasi Rak
                         </a>
                     </li>
                     <li class="nav-item">
